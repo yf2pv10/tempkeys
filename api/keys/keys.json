@@ -1,5 +1,29 @@
 [
   {
+    "uuid": "efc6bcfc-98fe-4251-bfd3-74f35ebc8c8a",
+    "linkvertise_links": [
+      {
+        "type": "Addon",
+        "url": "https://www.mirrored.to/files/0C1A1750/?hash=7329cbe99444d0860e51f84c43adb2c8&dl=0",
+        "size": "3.3 MB"
+      }
+    ],
+    "work.ink_links": [
+      {
+        "type": "Addon",
+        "url": "null",
+        "size": "3.3 MB"
+      }
+    ],
+    "lootlabs_links": [
+      {
+        "type": "Addon",
+        "url": "null",
+        "size": "3.3 MB"
+      }
+    ]
+  },
+  {
     "uuid": "f240f428-ed83-4c33-9178-b1111caf4d8b",
     "linkvertise_links": [
       {
@@ -3274,7 +3298,7 @@
     "linkvertise_links": [
       {
         "type": "Addon",
-        "url": "https://www.mirrored.to/files/19B47F21/?hash=2bdfa2ff4c996c20a151419b789fbff3&dl=0",
+        "url": "https://www.mirrored.to/files/D08F775D/?hash=4e51f053cee9e87c1f241d6055417068&dl=0",
         "size": "19.2 MB"
       }
     ],
